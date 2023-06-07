@@ -9,11 +9,6 @@
 
 [Pegasus RAT](https://t.me/pegasusratnso) is the sole responsibility of the user. The developer is not liable for any misuse, illegal activities, or damages caused by the use of this tool. The user is responsible for using this tool in a legal and ethical manner, adhering to all applicable laws and regulations. By using this tool, the user agrees to assume full responsibility for their actions and any potential consequences resulting from the use of the Pegasus RAT.
 
-![IMG_5720](https://github.com/eugeneduke/HOOK/assets/133839878/4e652199-9692-4293-b86e-adc232a6350c)
-
-![IMG_5721](https://github.com/eugeneduke/HOOK/assets/133839878/d5dd4e4f-8320-42c7-b962-919dd95c0c04)
-
-![IMG_5722](https://github.com/eugeneduke/HOOK/assets/133839878/a17f77ec-a2db-49e1-9341-56a69730af5b)
 
 ## Panel functionality:
 
@@ -213,5 +208,5 @@ Thank you again for choosing Pegasus RAT. We look forward to serving you.
 
 
 ## Telegram:
-- [Pegasus RAT channel](https://t.me/pegasusratnso)
+- [Pegasus RAT Channel](https://t.me/pegasusratnso)
 
