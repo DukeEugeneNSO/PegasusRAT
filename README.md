@@ -124,5 +124,6 @@ Thank you again for choosing Pegasus RAT. We look forward to serving you.
 |--|--|
 |**$ 2000 - LIFETIME**|**$ 5000 - SOURCE**|
 
-## Telegram:
-- [Pegasus RAT Channel](https://t.me/pegasusratnso)
+## Channels:
+- [Telegram Channel](https://t.me/pegasusratnso)
+- [Youtube Channel](https://www.youtube.com/@pegasusRAT)
