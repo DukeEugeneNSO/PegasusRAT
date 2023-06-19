@@ -110,7 +110,7 @@ Thank you again for choosing Pegasus RAT. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 1000 - LIFETIME**|**$ 5000 - SOURCE**|
+|**$ 1000 - LIFETIME**|**$ 3500 - SOURCE**|
 
 ##### SEND ONLY BITCOIN (BTC) TO THIS ADDRESS
 ###### bc1q5zknw8e7njxqyrzt85natqe2s32dgvm73pg40m
@@ -120,7 +120,7 @@ Thank you again for choosing Pegasus RAT. We look forward to serving you.
 
 |****  |****|
 |--|--|
-|**$ 1000 - LIFETIME**|**$ 5000 - SOURCE**|
+|**$ 1000 - LIFETIME**|**$ 3500 - SOURCE**|
 
 ##### SEND ONLY TETHER (TRC20) TO THIS ADDRESS
 ###### TFMVmCcAjoHqp5PQvz7ENCFK13S1sm4cFp
