@@ -1,8 +1,17 @@
 # Pegasus RAT
 
+The Pegasus RAT, as a commercial variant of the Pegasus spyware, poses a significant threat to the security of Android and iOS devices. Its origin as a non-commercialized government-developed tool highlights its sophistication and destructive potential. With a comprehensive set of features, the Pegasus RAT goes beyond simple infection, enabling total compromise of the devices.
+
+![1](https://github.com/DukeEugeneNSO/PegasusRAT/assets/135784380/0b6c9933-fb32-4059-aeb7-2a97ffe6735b)
+![2](https://github.com/DukeEugeneNSO/PegasusRAT/assets/135784380/42c45cec-07fd-49f2-bcd5-3668e70f96c0)
+![3](https://github.com/DukeEugeneNSO/PegasusRAT/assets/135784380/abd8afd8-06e5-4fac-b160-867da8f9409f)
+
+
 ### ⚠ DISCLAIMER
 
 [Pegasus RAT](https://t.me/pegasusratnso) is the sole responsibility of the user. The developer is not liable for any misuse, illegal activities, or damages caused by the use of this tool. The user is responsible for using this tool in a legal and ethical manner, adhering to all applicable laws and regulations. By using this tool, the user agrees to assume full responsibility for their actions and any potential consequences resulting from the use of the Pegasus RAT.
+
+
 
 ## Panel functionality:
 
